@@ -1,0 +1,4 @@
+**/__pycache__/**
+**/.pytest_cache/**
+complete_run.py
+complete_tests.py

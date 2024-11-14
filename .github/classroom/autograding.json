@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test 1",
+      "setup": "pip3 install pytest pandas scipy",
+      "run": "pytest tests.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
